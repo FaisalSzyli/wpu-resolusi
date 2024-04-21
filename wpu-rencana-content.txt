@@ -35,3 +35,7 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+-membuat aplikasi web javascript  
+  * system login menggunakan javascript sprti yang sudah wpu buat menggunakan bahasa php
+  * mengelola aplikasi 
+  
